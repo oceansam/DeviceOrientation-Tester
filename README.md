@@ -1,2 +1,0 @@
-# DeviceOrientation-Tester
- 
