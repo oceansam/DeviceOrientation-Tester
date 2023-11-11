@@ -4,3 +4,5 @@ Quick demo of the device orientation capabilities because working with this even
 
 Helpful demo link on vercel if needed to test yourself: https://device-orientation-tester.vercel.app/
 
+
+### Remember that requestPermission requires user input to trigger, CANNOT be used on lifecycle hooks unfortunately
